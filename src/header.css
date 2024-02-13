@@ -1,0 +1,15 @@
+.img{
+    margin-left: 10px;
+}
+.header{
+    .header {
+        background: linear-gradient(to right, #007bff, #87ceeb);
+        /* For webkit (Safari, Chrome) */
+        background: -webkit-linear-gradient(left, #007bff, #87ceeb);
+        /* For Mozilla Firefox */
+        background: -moz-linear-gradient(left, #007bff, #87ceeb);
+        /* For Opera */
+        background: -o-linear-gradient(left, #007bff, #87ceeb);
+      }
+      
+}

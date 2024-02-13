@@ -1,0 +1,43 @@
+.footer{
+    padding: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    background-color: darkslategrey;
+    
+
+}
+.footer-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content:start; 
+    color: aliceblue;
+    max-width: 30%;
+    margin-bottom: 10px;
+}
+.icons-link{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategrey;
+
+}
+
+.input-1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4px;
+   
+}
+.finput{
+    max-width: 49%;
+}
+.fbtn{
+    background-color: rgb(18, 16, 15);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}

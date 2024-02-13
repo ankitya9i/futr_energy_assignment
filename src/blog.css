@@ -1,0 +1,35 @@
+.blog {
+    padding-top: 2%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+   align-items: center;
+  }
+.blog-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.blog-content{
+    max-width: 30%;
+    display: flex;
+    flex-direction: column;
+
+}
+.blog-auther{
+    display: flex;
+    justify-content: space-between;
+}
+.span-col-blue {
+    color: rgb(19, 170, 216);
+}
+.blog-Date{
+    position: relative;
+    left: -35%;
+    top: 30px;
+    color: black;
+    
+}

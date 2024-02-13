@@ -1,0 +1,78 @@
+.offers {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+   align-items: center;
+  }
+  .inneroffers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .inneroffers-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .offer-btn{
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.london-things{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.london-img{
+    max-width: 100%;
+}
+.best-places{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.place-img{
+  max-width: 32%;
+ 
+    
+}
+.place{
+  max-width: 32%;
+ 
+    
+}
+.itely-travel{
+  background-image: url("./images/1.jpg"); 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+.itly-header{
+  color: aliceblue;
+}
+.itly-txt{
+  color: aliceblue;
+}
+.itly-btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.itly-btn{
+  margin-left: 2px;
+}
